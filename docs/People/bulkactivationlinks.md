@@ -11,7 +11,7 @@ This feature allows for the bulk update of student details
 - Select "Search"
 - Select Add, in line with the desired user, please note that multiple users can be added
 - Once all the desired users have been added, select "Close", to close the "Select the student" modal Screen
-- To the the activation links, select the "Send Activation Links" button
+- To send the activation links, select the "Send Activation Links" button
 - When you are presented with the "Send Activation Links - Success" page, you're done.
 - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/116486/Bulk-Activation-Links)
 
