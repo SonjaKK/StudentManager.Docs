@@ -6,7 +6,7 @@ Please note that at present this should only be used for student's details updat
 ### **System setup to use this feature effectively**
 - Ensure that in Communication Settings, there is a "mailbox" with the description "General", updates will use this mailbox by default (further configuration options will become available in future updates)
 - If a "General" mailbox is not available, this feature will fail and display and error on attempting an update request
-- To Navigate to the communication settings, Select More, Settings, Communication (Use this [#### **_tutorial link_**](https://www.iorad.com/player/116489/Checking-if-there-is-a--General--mailbox) to assist if you are unfamiliar with where it is)
+- To Navigate to the communication settings, Select More, Settings, Communication (Use this [**_tutorial link_**](https://www.iorad.com/player/116489/Checking-if-there-is-a--General--mailbox) to assist if you are unfamiliar with where it is)
 - Once this has been verified, you are ready to send detail update requests
 - **_Please note that staff notifications for details update requests are scheduled for a later release_**
 
@@ -23,4 +23,4 @@ Please note that at present this should only be used for student's details updat
 - Select Close
 - Once all the desired users are added, select the "Send User Profile Update Requests button"
 - You will then be returned to the Profile Update Requests Page, the users who have been sent the link will appear under the Active tab. 
-- To view a tutorial or the steps which need to be followed, please select the [#### **_tutorial link_**](https://www.iorad.com/player/116492/Sending-Details-Update-Request)
+- To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**](https://www.iorad.com/player/116492/Sending-Details-Update-Request)

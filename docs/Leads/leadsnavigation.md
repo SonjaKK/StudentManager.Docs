@@ -12,4 +12,4 @@
 - Select Relationships to maintain the people linked to the lead
 - Select Documents to maintain the required documents related to the lead
 - If you would like to change the lead to Closed (inactive) or Archive the lead, select Actions
-- To view a tutorial or the steps which need to be followed, please select the [#### **_tutorial link_**](https://www.iorad.com/player/116515/Navigating-Leads)
+- To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**](https://www.iorad.com/player/116515/Navigating-Leads)
