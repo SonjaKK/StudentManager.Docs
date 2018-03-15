@@ -12,6 +12,7 @@ pages:
     - System Access: People/systemaccess.md
     - Account Activation Link: People/sendanaccountactivationlink.md
     - Bulk Activation Link: People/bulkactivationlinks.md
+    - User Profile Details Update Request: People/userprofileupdatescreate.md
     - Assign Roles : People/assignroles.md
     - Change Student Status: People/changestatusofstudent.md
     - De-registering a Student: People/de-enrollingastudent.md
