@@ -7,10 +7,11 @@ pages:
 - Home: index.md
    
 - People:
-    - Adding People: People/adding-people.md
+    - Adding People - Staff: People/adding-people.md
     - Finding People: People/finding-people.md
     - System Access: People/systemaccess.md
     - Account Activation Link: People/sendanaccountactivationlink.md
+    - Bulk Activation Link: People/bulkactivationlinks.md
     - Assign Roles : People/assignroles.md
     - Change Student Status: People/changestatusofstudent.md
     - De-registering a Student: People/de-enrollingastudent.md
