@@ -5,4 +5,5 @@ This feature allows for the bulk update of student details
 
 
 - Select the Bulk Activations link
-- 
+- Select the Bulk Activations link
+- Select the Bulk Activations link
