@@ -16,7 +16,6 @@ pages:
     - De-registering a Student: People/de-enrollingastudent.md
     - Change a Student Number: People/changeastudentnumber.md
     - Change a Qualification: People/changeaqualification.md
-    - Change a Intake: Docs in progess 
 
 - Modules:
     - Add a Module: Modules/addamodule.md
