@@ -3,7 +3,8 @@
 
 By adding a person to Student Manager, you create a profile page for them that contains all their personal details and coursework information. 
 
-### **How to add a Staff member or a Student**
+### **How to add a Staff member**
 -	Click on the People tab on the Main Menu bar
--	Click on either New Staff or New Student on the top right-hand side
+-	Click on either Add Staff on the top right-hand side
 -	Populate the blank fields and save
+(The users profile page will then load)
