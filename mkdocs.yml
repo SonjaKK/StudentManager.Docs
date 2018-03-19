@@ -35,6 +35,11 @@ pages:
     - Adding a Application Wizard Step: Qualifications/addingsectionstoapplicationwizardsteps.md
     - Adding sections to an Application Wizard Step: Qualifications/addingsectionstoapplicationwizardsteps.md
 
+- Registrations:
+    - Registering Modules From Student Profile: Registration/registeringlearnermodulesfromstudentprofile.md
+    - Registering Module from Registrations: Registration/registeringlearnermodulesfromreg.md
+    - Registering Modules after Applications: Registration/registerintlearnermodulesafterapplication.md
+
 - Reports:
     - Print a Lecture Time Table: Reports/printalecturetimetable.md
     - Print a Student Card: Reports/printingastudentcard.md
