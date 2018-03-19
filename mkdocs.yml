@@ -31,6 +31,9 @@ pages:
     - Add a Qualification: Qualifications/addaqualification.md
     - Add an Intake: Qualifications/addapplicationintake.md
     - Searching for a Qualification: Qualifications/searchingandviewingaqualification.md
+    - Adding a New Application Wizard: Qualifications/addingnewapplicationwizard.md
+    - Adding a Application Wizard Step: Qualifications/addingsectionstoapplicationwizardsteps.md
+    - Adding sections to an Application Wizard Step: Qualifications/addingsectionstoapplicationwizardsteps.md
 
 - Reports:
     - Print a Lecture Time Table: Reports/printalecturetimetable.md
@@ -44,7 +47,8 @@ pages:
     - Navigation: Leads/leadsnavigation.md
 
 - Applicants:
-    - Adding an Applicant: Applications/addinganapplicant.md
+    - Adding a New Applicant: Applications/addinganewapplicant.md
+    - Adding a New Applicant from Existing Users: Applications/addinganewapplicantfromexisting.md
         
 - Communication:
     - Creating an Inbox: Communication/settingsupaninbox.md
