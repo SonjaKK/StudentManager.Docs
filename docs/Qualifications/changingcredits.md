@@ -2,7 +2,8 @@
 -	Click on Qualifications
 -	Select the relevant qualification and click View
 -	Select Curriculum
+-   Expand the curriculum
 -	Select the relevant module (year & semester)
--	Click Actions to edit 
--	Change credits 
+-	Click edit 
+-	Change credits
 
