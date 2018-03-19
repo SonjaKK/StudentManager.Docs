@@ -10,7 +10,8 @@ pages:
     - Adding People - Staff: People/adding-people.md
     - Finding People: People/finding-people.md
     - Bulk Activation Link: People/bulkactivationlinks.md
-    - User Profile Details Update Request: People/userprofileupdatescreate.md
+    - Set up for Details Update Requests: People/userprofiledetailsupdatesetup.md
+    - Sending Profile Details Update Request: People/userprofileupdatescreate.md
 
 - Modules:
     - Add a Module: Modules/addamodule.md
