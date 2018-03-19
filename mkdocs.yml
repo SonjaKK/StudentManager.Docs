@@ -29,6 +29,7 @@ pages:
 - Qualifications:
     - Add a Qualification: Qualifications/addaqualification.md
     - Add an Intake: Qualifications/addapplicationintake.md
+    - Searching for a Qualification: Qualifications/searchingandviewingaqualification.md
 
 - Reports:
     - Print a Lecture Time Table: Reports/printalecturetimetable.md
