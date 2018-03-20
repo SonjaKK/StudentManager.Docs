@@ -30,9 +30,10 @@ Your Curriculum needs to mirror your institutions prospectus at a specific point
 
 ### Now that there is a curriculum structure, modules can be added, note that there are two groupings, required group and electives
 
-#### **Required Modules**
+#### **Adding Required Modules**
 
 For required group modules select Add
+
 - Select the module drop down list
 - - Select the module which should be added
 - _Only use equivalent modules if the new module being added has an equivalent module already listed in the curriculum_
@@ -40,9 +41,10 @@ For required group modules select Add
 - Select and capture the module cost in Cost input box
 - Once all selections are complete select Save
 
-#### **Elective Modules**
+#### **Adding Elective Modules**
 
 - 
+
 
 - - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/117334/Setting-up-a-Curriculum)
 
