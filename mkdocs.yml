@@ -5,6 +5,8 @@ site_favicon: favicon.ico
 
 pages:
 - Home: index.md
+
+- Basic Setup: smbasicsetup/basicsetup.md
    
 - People:
     - Adding People - Staff: People/adding-people.md
