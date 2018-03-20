@@ -28,17 +28,17 @@ Your Curriculum needs to mirror your institutions prospectus at a specific point
 - - Type in a Name, the second level grouping is a period grouping label, e.g. Semester 1, Term 1, Quarter 1 etc.
 - - Once the name is entered, select Save
 
-### **Now that there is a curriculum structure, modules can be added, note that there are two groupings, required group and electives**
+### Now that there is a curriculum structure, modules can be added, note that there are two groupings, required group and electives
 
 #### **Required Modules**
 
-- For required group modules select Add
-- - Select the module drop down list
+For required group modules select Add
+- Select the module drop down list
 - - Select the module which should be added
-- - _Only use equivalent modules if the new module being added has an equivalent module already listed in the curriculum_
-- - Select and capture the credits in Credits input box
-- - Select and capture the module cost in Cost input box
-- - Once all selections are complete select Save
+- _Only use equivalent modules if the new module being added has an equivalent module already listed in the curriculum_
+- Select and capture the credits in Credits input box
+- Select and capture the module cost in Cost input box
+- Once all selections are complete select Save
 
 #### **Elective Modules**
 
