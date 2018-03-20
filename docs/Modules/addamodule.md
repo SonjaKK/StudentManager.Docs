@@ -1,8 +1,16 @@
-## **Add a Module**
+## **Add a Module** 
 
-Modules or subjects can be added to the system by: 
-
--	Selecting the Module tab from the Main Menu Bar
--	Select Add Module on the top right-hand side
--	Populate the blank fields and Save
+- The first step is to open Student Manager>Modules and Select Add
+- Once the Module: Add New modal appears, select the name input box
+- Type in a name for the module, the name on reports will automatically match the name, but can be edited to change what appears on the reports
+- Select the Code input box to create a code for the module
+- Type in a code, this code has an unrestricted character length
+- Select Content to add information about the course
+- Type the course content in the input box
+- Select the drop down next to the colour block
+- - Select a colour
+- - To save the selected colour, select choose _N.B. Custom colours can be made using the tool on the far right_
+- Once all the sections have been completed, Select Save
+- Once the newly created module display, that's it, you're done
+- - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/117328/Adding-a-Module)
 
