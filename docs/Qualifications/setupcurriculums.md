@@ -32,8 +32,7 @@ Your Curriculum needs to mirror your institutions prospectus at a specific point
 
 #### **Adding Required Modules**
 
-For required group modules select Add
-
+- For required group modules select Add
 - Select the module drop down list
 - - Select the module which should be added
 - _Only use equivalent modules if the new module being added has an equivalent module already listed in the curriculum_

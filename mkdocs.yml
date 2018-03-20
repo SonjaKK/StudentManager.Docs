@@ -20,6 +20,8 @@ pages:
     - Moving Modules: Modules/movingmodules.md
     - Searching for a Module: Modules/findingmodules.md
     - Make a Module inactive i.e. deactivate: Modules/deactivateamodule.md
+    - Viewing deativated modules: Modules/showhideinactivemodules.md
+    - Setting inactive modules to active: Modules/makeinactivemoduleactive.md
     
     - Setting up Module Groups: Modules/settingupmodulegroups.md
 
