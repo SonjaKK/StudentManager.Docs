@@ -16,6 +16,7 @@ pages:
 - Modules:
     - Add a Module: Modules/addamodule.md
     - Moving Modules: Modules/movingmodules.md
+    - Searching for a Module: Modules/findingmodules.md
     - Setting up Module Groups: Modules/settingupmodulegroups.md
     - Setting up Assessments: Modules/settingupassessments.md
     - Assessment Attempts: Modules/assessmentattempts.md
