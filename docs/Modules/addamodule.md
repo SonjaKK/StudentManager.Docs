@@ -12,5 +12,6 @@
 - - To save the selected colour, select choose _N.B. Custom colours can be made using the tool on the far right_
 - Once all the sections have been completed, Select Save
 - Once the newly created module display, that's it, you're done
+
 - - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/117328/Adding-a-Module)
 
