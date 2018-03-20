@@ -15,16 +15,14 @@ pages:
     - Set up for Details Update Requests: People/userprofiledetailsupdatesetup.md
     - Sending Profile Details Update Request: People/userprofileupdatescreate.md
 
-- Modules - Setup:
+- Modules:
     - Add a Module: Modules/addamodule.md
     - Moving Modules: Modules/movingmodules.md
     - Searching for a Module: Modules/findingmodules.md
     - Make a Module inactive i.e. deactivate: Modules/deactivateamodule.md
     
-- Modules - Groups:
     - Setting up Module Groups: Modules/settingupmodulegroups.md
 
-- Modules - Groups - Assessments:
     - Setting Up Assessments: Modules/settingupassessments.md
     - Assessment Attempts: Modules/assessmentattempts.md
     - Copy Assessments in Bulk: Modules/copyassessmentsinbulk.md
