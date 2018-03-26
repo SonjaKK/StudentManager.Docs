@@ -8,4 +8,4 @@
 - - Select the link in the email
 - Your browser will open and present you with the ability to set the new password
 - Capture the password in the input and select set password
-- You can now login with your email address and new password
+- ####You can now login with your email address and new password
