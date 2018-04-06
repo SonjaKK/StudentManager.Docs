@@ -68,6 +68,7 @@ pages:
 - Applicants:
     - Adding a New Applicant: Applications/addinganewapplicant.md
     - Adding a New Applicant from Existing Users: Applications/addinganewapplicantfromexisting.md
+    - Editing the Applications Close date: Applications/changingclosedate.md
         
 - Communication:
     - Creating an Inbox: Communication/settingsupaninbox.md
