@@ -19,4 +19,4 @@ This feature allows for the following configurations:
 
 **The intakes will be listed again, but now with an updated Application Close date**
 
-- - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/120644/Making-a-close-intake-selectable-again)
+- To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/120644/Making-a-close-intake-selectable-again)
