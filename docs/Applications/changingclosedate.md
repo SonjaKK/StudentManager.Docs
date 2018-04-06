@@ -16,5 +16,7 @@ This feature allows for the following configurations:
 -- Select the month
 -- Select the day, then left click anyway on the screen besides the calendar, to exit the calendar view
 -- To commit the changes select save 
--- The intakes will be listed again, but now with an updated Application Close date
 
+**The intakes will be listed again, but now with an updated Application Close date**
+
+- - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/120644/Making-a-close-intake-selectable-again)
