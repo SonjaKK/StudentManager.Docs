@@ -53,6 +53,7 @@ pages:
     - Registering Modules From Student Profile: Registration/registeringlearnermodulesfromstudentprofile.md
     - Registering Module from Registrations: Registration/registeringlearnermodulesfromreg.md
     - Registering Modules after Applications: Registration/registerintlearnermodulesafterapplication.md
+ - Registration Group dates edit: Registration/registrationgroupdatesedit.md
 
 - Reports:
     - Print a Lecture Time Table: Reports/printalecturetimetable.md

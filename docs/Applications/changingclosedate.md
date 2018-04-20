@@ -1,6 +1,7 @@
 # **Changing the application close date**
 
 This feature allows for the following configurations:
+
 - Closing an intake, if applicants should not have access anymore
 - Extending access to an intake, which may have been available previously and there is a need to deal with past applicants
 
