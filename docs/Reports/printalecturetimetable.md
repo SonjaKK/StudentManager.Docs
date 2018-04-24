@@ -3,7 +3,7 @@
 
 ### Ensure that your coursework is already loaded
 
--	Select More from the Main Menu Bar
+-	Select More, from the Main Menu Bar
 -	Select Calendar from the drop down list
 -	Scroll down to Month, Week, Day, List and select which view you would prefer
 -	Select Print for a preview of your calendar
