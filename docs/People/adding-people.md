@@ -11,4 +11,4 @@ By adding a person to Student Manager, you create a profile page for them that c
 -   You can now send them an activation link, which will allow them to log into Student Manager
 
 
-- To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/125997/Adding-and-employee)
+- To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/125997/Adding-an-employee)

@@ -13,6 +13,7 @@ pages:
    
 - People:
     - Adding People - Staff: People/adding-people.md
+    - Staff/Employee System Access: People/employeesystemaccess.md
     - Finding People: People/finding-people.md
     - Bulk Activation Link: People/bulkactivationlinks.md
     - Set up for Details Update Requests: People/userprofiledetailsupdatesetup.md
