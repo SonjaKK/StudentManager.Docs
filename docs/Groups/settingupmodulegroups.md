@@ -29,10 +29,10 @@
 
 ### **Navigating the group**
 - Select the + icon on the right of the group name to view its detail
-- - There are group details
-- - Available to qualifications, showing which qualifications are linked to the group
-- - Employee, showing which employees have access to the group
-- - Resources, showing what resources learner in the group have access to
+	- There are group details
+	- Available to qualifications, showing which qualifications are linked to the group
+	- Employee, showing which employees have access to the group
+	- Resources, showing what resources learner in the group have access to
 
 - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/117330/Adding-A-Group-to-A-Module)
 
