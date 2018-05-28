@@ -41,7 +41,7 @@ pages:
     - Merging Duplicate Modules: Modules/mergingduplicatemodules.md
 
 - Groups:
-	- Setting up Module Groups: Groups/settingupmodulegroups.md
+    - Setting up Module Groups: Groups/settingupmodulegroups.md
 
 - Qualifications:
     - Add a Qualification: Qualifications/addaqualification.md
