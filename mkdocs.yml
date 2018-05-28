@@ -30,9 +30,7 @@ pages:
     - Make a Module inactive i.e. deactivate: Modules/deactivateamodule.md
     - Viewing deativated modules: Modules/showhideinactivemodules.md
     - Setting inactive modules to active: Modules/makeinactivemoduleactive.md
-    
     - Setting up Module Groups: Modules/settingupmodulegroups.md
-
     - Setting Up Assessments: Modules/settingupassessments.md
     - Assessment Attempts: Modules/assessmentattempts.md
     - Copy Assessments in Bulk: Modules/copyassessmentsinbulk.md
@@ -41,6 +39,9 @@ pages:
     - Grade Assessments: Modules/grading.md
     - Adding E-Learning Material: Modules/addinglearningmaterial.md 
     - Merging Duplicate Modules: Modules/mergingduplicatemodules.md
+
+- Groups:
+	- Setting up Module Groups: Groups/settingupmodulegroups.md
 
 - Qualifications:
     - Add a Qualification: Qualifications/addaqualification.md
