@@ -1,6 +1,6 @@
 ## **Adding an Intake to a Qualification**
 
-This feature allows for the creation of an entry point into a qualification for a potential student, as well as way to link application history and current curriculum to current students
+This feature allows for the creation of an entry point, into a qualification for a potential student, as well as way to link application history and current curriculum to current students
 
 ### **Navigation**
 - To Navigate to the qualification, select qualfiications on the main menu, search for the qualification by selecting the search box input, type in the name of the qualification, then select view (Use this [**_tutorial link_**](https://www.iorad.com/player/117064/Searching-for-a-qualification) to assist if you are unfamiliar with how to do this)
