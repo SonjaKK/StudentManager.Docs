@@ -52,7 +52,7 @@ pages:
     - Add a Qualification: Qualifications/addaqualification.md
     - Add a Module: Modules/addamodule.md
     - Add a Group: Groups/settingupmodulegroups.md
-	- Add a Curriculum:  Qualifications/setupcurriculums.md
+    - Add a Curriculum: Qualifications/setupcurriculums.md
 	- Add an Intake: Qualifications/addapplicationintake.md
 	- Searching for a Qualification: Qualifications/searchingandviewingaqualification.md
 	- Adding a New Application Wizard: Qualifications/addingnewapplicationwizard.md
