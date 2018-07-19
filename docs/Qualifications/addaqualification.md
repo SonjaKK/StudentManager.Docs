@@ -1,6 +1,6 @@
 ## **Add a Qualification**
 - After navigating to qualifications using the main menu, take note of the "Heads Up!" message 
-- After selecting "Add " a **Qualification: Add New** screen will appear, you will be able to add any required detail here. Below are explanations of the fields so you understand what is required for each one
+- After selecting "Add ", a **Qualification: Add New** screen will appear, you will be able to add any required detail here. Below are explanations of the fields so you understand what is required for each one
 - **Cancel**
 	- Selecting this will exit without saving any changes
 - **Save**
