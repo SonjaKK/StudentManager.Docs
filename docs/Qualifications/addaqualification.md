@@ -1,8 +1,6 @@
 ## **Add a Qualification**
-- After navigating to qualifications using the main menu,take note of the "Heads Up!" message age 
-- After selecting "Add " a Qualification: Add New screen will appear, you will be able to add any required detail here.
-
-*We will go through all the aspects of the screen below, take note of any field marked with an *, this symbol means that this is a required field and you must fill it in.*
+- After navigating to qualifications using the main menu, take note of the "Heads Up!" message 
+- After selecting "Add " a Qualification: Add New screen will appear, you will be able to add any required detail here. Below aree explanations of the fields so you understand what is required for eah oneh one
 - **Cancel**
 	- Selecting this will exit without saving any changes
 - **Save**
