@@ -39,5 +39,6 @@ The next two sections are there to assist if you are planning on using the syste
 	- This is an example of the view you would see on the live site, after selecting "More" in the Prospectus summary on the live site https://smtrainer.studentmanager.co.za/apply/Detail?qualificationId=1396
  
 So once everything is filled in, you can then save and all of this detail will be stored and accessible in the system.
+
 - To view a tutorial which shows which steps need to be followed, please select the [**_tutorial link_**](https://www.iorad.com/player/135770/Adding-a-Qualification)
 
