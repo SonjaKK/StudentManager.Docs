@@ -36,7 +36,7 @@
 	- All assessments must fall within the start and end date of the group to be accessible
 	- All calendar events for a group must also fall within the start and end date of that group to be accessible
 
-###**Module Group: Student Joined and Left Dates***
+###**Module Group: Student Joined and Left Dates**
 - If a learner is registered into a module's group before the group start date or on the day that the group starts, they will get a joined and left date which matches the groups start and end date
 - If a learner is registered into a module's group after the group start date, the date that they have joined the group will be the same as the registration date and the date left will be the same as the group end date
 	- The reason for this is that if the student joins the group late any assessments and events which had occurred prior to them entering the group, they will automatically be excluded from it because they were not available when the event occurred
