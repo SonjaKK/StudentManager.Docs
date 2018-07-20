@@ -93,6 +93,7 @@ pages:
 - More:
     - Creating and Moving Logs: More/creatingormovinglogs.md
     - Grade and Symbol Settings: More/gradeandsymbolsettings.md
+    - Understanding Dates in SM: More/workingwithdates.md
 
     
 theme: readthedocs
