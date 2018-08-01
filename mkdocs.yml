@@ -35,7 +35,8 @@ pages:
     - Make a Module inactive i.e. deactivate: Modules/deactivateamodule.md
     - Viewing deativated modules: Modules/showhideinactivemodules.md
     - Setting inactive modules to active: Modules/makeinactivemoduleactive.md
-    - Setting up Module Groups: Modules/settingupmodulegroups.md
+    - Setting up Module Groups: Groups/settingupmodulegroups.md
+    - Adding Employees to Groups: Groups/addemployee.md
     - Setting Up Assessments: Modules/settingupassessments.md
     - Assessment Attempts: Modules/assessmentattempts.md
     - Copy Assessments in Bulk: Modules/copyassessmentsinbulk.md
