@@ -47,6 +47,7 @@ pages:
 
 - Groups:
     - Setting up Module Groups: Groups/settingupmodulegroups.md
+    - Adding Employees to Groups: Groups/addemployee.md
 
 - Qualifications:
     - Add a Qualification: Qualifications/addaqualification.md
