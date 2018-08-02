@@ -40,6 +40,7 @@ pages:
     - Setting Up Assessments: Modules/settingupassessments.md
     - Assessment Attempts: Modules/assessmentattempts.md
     - Capturing Assessment Results: Modules/capturingmarks.md
+    - Publishing Assessment Results: Modules/publishingresults.md
     - Copy Assessments in Bulk: Modules/copyassessmentsinbulk.md
     - Online Tests: Modules/onlinetests.md
     - Online Assessment: Modules/onlineassessments.md
