@@ -38,5 +38,5 @@
 - Any of the students listed can be selected to view their profile
 - If you don't want to view their profiles, select close
 
-
+#### **Tutorial**
 - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**](https://www.iorad.com/player/124098/Bulk-Registering-Students)
