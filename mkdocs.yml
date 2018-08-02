@@ -39,6 +39,7 @@ pages:
     - Adding Employees to Groups: Groups/addemployee.md
     - Setting Up Assessments: Modules/settingupassessments.md
     - Assessment Attempts: Modules/assessmentattempts.md
+    - Capturing Assessment Results: Modules/capturingmarks.md
     - Copy Assessments in Bulk: Modules/copyassessmentsinbulk.md
     - Online Tests: Modules/onlinetests.md
     - Online Assessment: Modules/onlineassessments.md
