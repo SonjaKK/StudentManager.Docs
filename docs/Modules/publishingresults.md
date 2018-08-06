@@ -1,5 +1,9 @@
 ## **Publishing Assessment Results**
 
+### **What does it mean to publish results**
+- Publishing results allow for results to be calculated and the present progress symbol to be displayed
+- Publishing also allows the student to see their result in their portal, only published results are visible
+
 ### **Publishing a Single Assessments Result**
 - For the given assessment attempt, select "Options" for the given attempt. (Note the "X" in the "Published" column)
 - Now select "Publish Results" (Again, please ensure you have the group access rights required to publish results)

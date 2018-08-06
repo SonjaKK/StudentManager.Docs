@@ -69,6 +69,7 @@ pages:
     - Registering Modules after Applications: Registration/registerintlearnermodulesafterapplication.md
     - Registration Group dates edit: Registration/registrationgroupdatesedit.md
     - Registering Modules for students in bulk: Registration/registeringlearnermodulesinbulk.md
+    - Reversing a Module Registration: Registration/reversingmoduleregistration.md
 
 - Reports:
     - Print a Lecture Time Table: Reports/printalecturetimetable.md

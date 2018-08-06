@@ -1,5 +1,3 @@
-### **Will be added soon**
-
 ## **Editing the Registration Group Dates**
 
 Editing the registration group dates is useful in the following use cases:
@@ -8,8 +6,4 @@ Editing the registration group dates is useful in the following use cases:
 
 
 
-### **Steps to edit the date**
-- In 
-
-
-- To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**](https://www.iorad.com/player/117067/Adding-an-Intake)
+### **More on this coming soon...**
