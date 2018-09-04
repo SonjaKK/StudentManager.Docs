@@ -6,7 +6,6 @@
 
 [logo]: https://image.ibb.co/diBXxz/loginpage.png "Login Page"
 
-
 - Select forgot password
 
 ![alt text][logo]
@@ -15,7 +14,6 @@
 
 - Enter you email address, which you usually use to log into the site
 - Select the reset button
-
 
 ![alt text][logo]
 
