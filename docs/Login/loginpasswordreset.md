@@ -2,7 +2,8 @@
 
 - Go to your institution login page
 - Select forgot password
-![alt text][logo] 
+![alt text][logo]
+
 [logo]: https://github.com/viljoen/smimages/blob/master/images/forgotpassword.png "Forgot Password"
 - Enter you email address, which you usually use to log into the site
 - Select the reset button
