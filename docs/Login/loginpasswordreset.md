@@ -1,8 +1,6 @@
 ## **Password Reset** 
 
-<u>Step 1.<u/>
-  
-### Go to your institution login page
+### Step 1. Go to your institution login page
 
 ![alt text][image 1]
 
