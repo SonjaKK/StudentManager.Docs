@@ -5,7 +5,7 @@
 
 ![alt text][logo]
 
-[logo]: https://github.com/viljoen/smimages/blob/master/images/forgotpassword.png "Forgot Password"
+[logo]: https://ibb.co/kaoFje "Forgot Password"
 
 - Enter you email address, which you usually use to log into the site
 - Select the reset button
