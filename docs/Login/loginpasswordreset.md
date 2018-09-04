@@ -1,19 +1,19 @@
 ## **Password Reset** 
 
-### Go to your institution login page
+### 1. Go to your institution login page
 
 ![alt text][image 1]
 
 [image 1]: https://image.ibb.co/diBXxz/loginpage.png "Login Page"
 
-### Select forgot password
+### 2. Select forgot password
 
 ![alt text][image 2]
 
 [image 2]: https://image.ibb.co/hWMqHz/forgotpassword.png "Forgot Password"
 
-### Enter you email address, which you usually use to log into the site
-### Select the reset button
+### 3. Enter you email address, which you usually use to log into the site
+### 4. Select the reset button
 
 ![alt text][image 3]
 
