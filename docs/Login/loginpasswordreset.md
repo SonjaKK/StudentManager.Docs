@@ -12,7 +12,7 @@
 
 [image 2]: https://image.ibb.co/hWMqHz/forgotpassword.png "Forgot Password"
 
-### Step 3. Enter you email address, which you usually use to log into the site
+### Step 3. Enter your email address, which you usually use to log into the site
 ### Step 4. Select the reset button
 
 ![alt text][image 3]
