@@ -2,6 +2,7 @@
 
 - Go to your institution login page
 - Select forgot password
+
 ![alt text][logo]
 
 [logo]: https://github.com/viljoen/smimages/blob/master/images/forgotpassword.png "Forgot Password"
