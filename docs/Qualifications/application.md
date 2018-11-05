@@ -3,6 +3,5 @@
 
 ### **Settings**
 ![my image is here][1]
-[1]: https://docs.google.com/uc?export=download&id=1tDThlHIlxV9fbxfZ3ZesB37yFa3-Iwmf
+[1]: https://docs.google.com/uc?export=download&id=xXaFIt3j7R6kKyGpGoUnapC9MBPxm9BG
 
-![alt text](https://drive.google.com/uc?id=1tDThlHIlxV9fbxfZ3ZesB37yFa3-Iwmf "Application Settings")
