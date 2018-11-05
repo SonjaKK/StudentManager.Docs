@@ -10,8 +10,8 @@ When a new or existing student want to either; change to a different qualificati
 Before the application process can start, you need to have the following checklists in place:
 
 1. Has the Qualification been set up?
-..* If you have not yet set this up, please see [How to setup a Qualification](http://help.studentmanager.co.za/en/latest/Qualifications/addaqualification/)
+ * If you have not yet set this up, please see [How to setup a Qualification](http://help.studentmanager.co.za/en/latest/Qualifications/addaqualification/)
 2. Do you have a Curriculum set up?
-..* If you have not yet set this up, please see [How to setup a Curriculum](http://help.studentmanager.co.za/en/latest/Qualifications/setupcurriculums/)
+ * If you have not yet set this up, please see [How to setup a Curriculum](http://help.studentmanager.co.za/en/latest/Qualifications/setupcurriculums/)
 3. Do you have an Intake set up?
-..* If you have not yet set this up, please see [How to setup an Intake](http://help.studentmanager.co.za/en/latest/Qualifications/addapplicationintake/)
+ * If you have not yet set this up, please see [How to setup an Intake](http://help.studentmanager.co.za/en/latest/Qualifications/addapplicationintake/)
