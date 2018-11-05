@@ -53,8 +53,8 @@ pages:
     - Adding Employees to Groups: Groups/addemployee.md
 
 - Qualifications:
-    - Qualification Application Overview: Qualifications/application.md
     - Add a Qualification: Qualifications/addaqualification.md
+    - Qualification Application Overview: Qualifications/application.md
     - Add a Module: Modules/addamodule.md
     - Add a Group: Groups/settingupmodulegroups.md
     - Add a Curriculum: Qualifications/setupcurriculums.md
