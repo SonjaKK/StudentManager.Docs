@@ -5,7 +5,7 @@ When a new or existing student want to either; change to a different qualificati
 Before the application setup process can start, you need to have the following checklists in place:
 
 - Has the Qualification been set up?
-	 - If you have not yet set this up, please see [How to setup a Qualification](http://help.studentmanager.co.za/en/latest/Qualifications/addaqualification/)
+  - If you have not yet set this up, please see [How to setup a Qualification](http://help.studentmanager.co.za/en/latest/Qualifications/addaqualification/)
 - Do you have a Curriculum set up?
   - If you have not yet set this up, please see [How to setup a Curriculum](http://help.studentmanager.co.za/en/latest/Qualifications/setupcurriculums/)
 - Do you have an Intake set up?
@@ -30,6 +30,3 @@ If you select edit on the setting tab, the following will display
 - Would you or the student like to be automatically registered into all the available module groups?
   - Yes: To allow this process, click on Edit and select the checkbox
   - No: Do not select the checkbox and during registration, after applications, all available groups will not be selected to auto register the student into modules
-
-
-
