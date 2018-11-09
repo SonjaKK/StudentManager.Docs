@@ -9,27 +9,27 @@
 ### **Adding a Group to a Module**
 - After log in, navigate to the module which requires a group and select the year drop down to choose the correct year
 	- In this example we are working with 2018, so we select 2018
-- Once the page reloads with the correct year, select the campus which requires the group
-- Ensure that the Groups tab is selected
-- Select Add to add a group
-- When the create group modal loads, select the Name input box
+- Once the page reloads with the correct year, select the **Campus** which requires the group
+- Ensure that the **Groups** tab is selected
+- Select **Add** to add a group
+- When the create group modal loads, select the **Name** input box
 	- Type in a group Name
-- Select Code, this will allow for a code reference for the group
-	- Type in a Code, this only 4 characters at present
-- Select Start Date, to set when the group will begin, ensure that this date is after the enrollment date for the qualifications intake
+- Select **Code**, this will allow for a code reference for the group
+	- Type in a Code, this only allows 4 characters at present
+- Select **Start Date**, to set when the group will begin, ensure that this date is after the enrollment date for the qualifications intake
 	- Use the calendar quick select tool to choose a start date
-- Select end date to set when the given group will end
+- Select **End Date** to set when the given group will end
 	- Use the calendar quick select tool to choose a end date
-- Select Max number of students to set how many student should be in the group
+- Select **Max Number Of Students** to set how many student should be in the group
 	- Type in Max number of students, if set at zero, this will set the max number to unlimited
-- Select Available Qualification to set which qualifications this group is linked to
+- Select **Available Qualification** to set which qualifications this group is linked to
 	- Select a qualification, and setup can be concluded
 	- (Please note that a group can be created without linking it to a qualification)
-- Select Save
+- Select **Save**
 
 ### **Navigating the group**
-- Select the + icon on the right of the group name to view its detail
-	- There are group details
+- Select the + icon on the left of the group name to view its detail
+	- Here you can see the group details...
 	- Available to qualifications, showing which qualifications are linked to the group
 	- Employee, showing which employees have access to the group
 	- Resources, showing what resources learner in the group have access to
