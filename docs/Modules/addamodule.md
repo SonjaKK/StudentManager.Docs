@@ -9,9 +9,11 @@
 	- Type the course content in the input box
 - Select the drop down next to the colour block
 	- Select a colour
-	- To save the selected colour, select choose _N.B. Custom colours can be made using the tool on the far right_
-- Once all the sections have been completed, Select Save
-- Once the newly created module display, that's it, you're done
+	- To save the selected colour, select choose 
+	 _Note: Custom colours can be made using the tool on the far right_
+- Once all the sections have been completed, Select **Save**
+
+Your newly created module will now display, you're done.
+![modules](https://drive.google.com/open?id=1Ahr7fF_3-oN1NSeqkRPNEdPq7aS7H4Pf)
 
 - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/117328/Adding-a-Module)
-
