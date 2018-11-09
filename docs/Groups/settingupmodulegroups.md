@@ -14,7 +14,7 @@
 - Select Add to add a group
 - When the create group modal loads, select the Name input box
 	- Type in a group Name
-- Select Code, this will allow for a code reference for the group
+- Select **Code**, this will allow for a code reference for the group
 	- Type in a Code, this only 4 characters at present
 - Select Start Date, to set when the group will begin, ensure that this date is after the enrollment date for the qualifications intake
 	- Use the calendar quick select tool to choose a start date
