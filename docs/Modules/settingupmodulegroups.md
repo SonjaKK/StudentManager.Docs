@@ -35,8 +35,3 @@
 - - Resources, showing what resources learner in the group have access to
 
 - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/117330/Adding-A-Group-to-A-Module)
-
-
-
-
-
