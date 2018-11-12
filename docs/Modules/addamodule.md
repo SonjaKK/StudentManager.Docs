@@ -14,6 +14,5 @@
 - Once all the sections have been completed, Select **Save**
 
 Your newly created module will now display, you're done.
-![modules](https://drive.google.com/open?id=1Ahr7fF_3-oN1NSeqkRPNEdPq7aS7H4Pf)
 
 - To view a tutorial or the steps which need to be followed, please select the [**_tutorial link_**.](https://www.iorad.com/player/117328/Adding-a-Module)
